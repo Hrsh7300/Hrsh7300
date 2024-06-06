@@ -14,7 +14,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
  <p align="center">
   
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="#"><img width="32px" alt="bilibili" title="Bilibili" src="./img/bilibili.png"/></a>
+   <a href="#"><img width="32px" alt="bilibili" title="Bilibili" src="./bilibili.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="32px" alt="StacoverFlow" title="StacoverFlow" src="stac.PNG"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
