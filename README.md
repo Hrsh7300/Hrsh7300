@@ -73,24 +73,10 @@ I’m a Data scientist working to better understand About AI and Cybersecurity. 
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./problem_solving_basic certificate.pdf" width="48" height="48" alt="#" />
-      </a>
-      <br>Hackerrank problem solving
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./google.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>IT Automation with Python Professional
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./redhat-original.svg" width="48" height="48" alt="c" />
-      </a>
-      <br>Linux System
-    </td>
+     [Hackerrank problem solving](https://github.com/Hrsh7300/Template/blob/main/problem_solving_basic%20certificate.pdf)
+     [web development course completion](https://github.com/Hrsh7300/Template/blob/main/web%20full%20stack%20certificate.pdf)
+     [J.P Morgan virtual program](https://github.com/Hrsh7300/Template/blob/main/J.P.%20Morgan_completion_certificate.pdf)
+     [LOR](https://github.com/Hrsh7300/Template/blob/main/20240513_214506.jpg)
      </tr>
 </table>
 
@@ -126,12 +112,6 @@ I’m a Data scientist working to better understand About AI and Cybersecurity. 
       </a>
       <br>C++
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./m.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>markdown
-    </td>
      <td align="center" width="96">
       <a href="#">
         <img src="./html.png" width="48" height="48" alt="TypeScript" />
@@ -150,7 +130,7 @@ I’m a Data scientist working to better understand About AI and Cybersecurity. 
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/php.png" width="48" height="48" alt="PHP" />
+        <img src="./php.png" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
     </td>
@@ -228,12 +208,6 @@ I’m a Data scientist working to better understand About AI and Cybersecurity. 
         <img src="./redhat-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Ret-Hat
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Debian
     </td>
     <td align="center" width="96">
       <a href="#">
