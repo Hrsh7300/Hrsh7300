@@ -22,12 +22,7 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/harsh_pareek"><img width="32px" alt="Dev.to" title="naem dev" src="./dev-32.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
-
-<!-- social -->
- <p align="center">
-   <a href="https://github.com/Hrsh7300"><img width="32px" alt="Portfolio" src="./cv.png"/></a>
+  <a href="https://github.com/Hrsh7300"><img width="32px" alt="Portfolio" src="./cv.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/HarshPa72625734" alt="Twitter"><img width="32px" src="./twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -35,7 +30,6 @@ leetcode: https://leetcard.jacoblin.cool/ -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/_hxrsh.12/" alt="Instagram"><img width="32px" src="./insta.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  
 </p>
 
 
@@ -74,9 +68,12 @@ I’m a Data scientist working to better understand About AI and Cybersecurity. 
 <table>
   <tr>
      [Hackerrank problem solving](https://github.com/Hrsh7300/Template/blob/main/problem_solving_basic%20certificate.pdf)
+    <br>
      [web development course completion](https://github.com/Hrsh7300/Template/blob/main/web%20full%20stack%20certificate.pdf)
-     [J.P Morgan virtual program](https://github.com/Hrsh7300/Template/blob/main/J.P.%20Morgan_completion_certificate.pdf)
-     [LOR](https://github.com/Hrsh7300/Template/blob/main/20240513_214506.jpg)
+     <br>
+    [J.P Morgan virtual program](https://github.com/Hrsh7300/Template/blob/main/J.P.%20Morgan_completion_certificate.pdf)
+     <br>
+    [LOR](https://github.com/Hrsh7300/Template/blob/main/20240513_214506.jpg)
      </tr>
 </table>
 
